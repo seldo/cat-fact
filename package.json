@@ -13,5 +13,14 @@
   },
   "bin": {
     "cat-fact": "bin/cat-fact.js"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seldo/cat-fact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seldo/cat-fact/issues"
+  },
+  "homepage": "https://github.com/seldo/cat-fact#readme"
 }
