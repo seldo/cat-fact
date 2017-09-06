@@ -1,0 +1,17 @@
+{
+  "name": "cat-fact",
+  "version": "1.0.0",
+  "description": "A command-line tool to show you cat facts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cat-facts": "^1.0.2"
+  },
+  "bin": {
+    "cat-fact": "bin/cat-fact.js"
+  }
+}
